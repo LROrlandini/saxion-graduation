@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "ledmatrix.h": "c",
+        "adc.h": "c",
+        "xc.h": "c",
+        "defines.h": "c",
+        "git.h": "c",
+        "system.h": "c",
+        "usb_user.h": "c",
+        "stdio.h": "c"
+    },
+    "python.defaultInterpreterPath": "/usr/bin/python3",
+}

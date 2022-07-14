@@ -1,0 +1,15 @@
+build/*
+dist/*
+debug/*
+
+
+# ignore nbproject folder
+/**/nbproject/*
+/**/git.h
+
+# except
+!/**/nbproject/project.xml
+!/**/nbproject/configurations.xml
+
+nbproject/private/
+
